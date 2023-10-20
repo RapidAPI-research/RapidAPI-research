@@ -9,6 +9,7 @@ The RapidAPI platform is one of the largest API platforms and it provides over 4
 We find that 1,909 keys used for API request authorization have been leaked by developers in GitHub or Android code. We demonstrate that adversaries can utilize the leaked keys to launch four attacks, e.g., Resource Exhaustion Running attack, Theft of Service attack, Data Manipulation attack, and User Data Breach attack.
 
 ![key_leaks](https://github.com/RapidAPI-research/RapidAPI-research/blob/main/images/all_attakcs.pdf)
+[Some title here](https://github.com/RapidAPI-research/RapidAPI-research/blob/main/images/all_attakcs.pdf)
 
 ## Risks of API Metadata Abuse
 We discover the risks of API metadata abuse. Due to the poor certification process in the RapidAPI platform, adversaries can publish any APIs on the platform, such as typosquatting APIs to attack other APIs or spamming APIs for product promotion. Malicious developers can also impersonate famous companies and mislead developers into calling their APIs.
